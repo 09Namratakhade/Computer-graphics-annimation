@@ -1,3 +1,2 @@
-# Computer-graphics-annimation
-.
+# Computer-graphics-annimation.
 .
